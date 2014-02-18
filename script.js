@@ -1,0 +1,1 @@
+alert("This script is obfuscated!");
